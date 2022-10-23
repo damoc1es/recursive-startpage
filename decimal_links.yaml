@@ -1,0 +1,9 @@
+- personal:
+  - GitHub: 'https://github.com'
+  - another set, nested:
+    - Google: 'https://google.com'
+    - Reddit: 'https://www.reddit.com'
+
+- social:
+  - Discord: 'https://discord.com/channels/@me'
+  - Twitter: 'https://twitter.com/home'
